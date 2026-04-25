@@ -23,6 +23,7 @@ Gas token: ETH on Base
 ## How to deploy
 
 Use Remix:
+
 1. Compile contract
 
 2. Connect MetaMask
