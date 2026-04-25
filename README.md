@@ -17,7 +17,7 @@ Chain ID: 8453
 
 Gas token: ETH on Base
 
-## Contract
+# Contract
 
 `contracts/GuessGame.sol`
 
