@@ -12,3 +12,4 @@ Players send a small ETH fee and guess the secret number.
 
 Base Mainnet  
 
+Chain ID: 8453  
