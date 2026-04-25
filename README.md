@@ -27,7 +27,7 @@ Use Remix:
 
 1. Compile contract
 
-2. Connect MetaMask
+2. Connect MetaMask or rubby
 
 3. Select Base Mainnet
 
