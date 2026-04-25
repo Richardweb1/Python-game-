@@ -10,4 +10,5 @@ Players send a small ETH fee and guess the secret number.
 
 ## Network
 
+Base Mainnet  
 
