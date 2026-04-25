@@ -26,5 +26,6 @@ Use Remix:
 1. Compile contract
 
 2. Connect MetaMask
+
 3. Select Base Mainnet
 4. Deploy with Injected Provider
