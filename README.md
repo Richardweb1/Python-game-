@@ -21,7 +21,7 @@ Gas token: ETH on Base
 
 `contracts/GuessGame.sol`
 
-## How to deploy
+# How to deploy
 
 Use Remix:
 
